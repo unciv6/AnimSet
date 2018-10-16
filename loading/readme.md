@@ -1,2 +1,2 @@
 # CircleLoadingView
-т╡пн╪стьв╢л╛╣дView
+Е°├Е╫╒Е┼═Х╫╫Г┼╤Ф─│Г └View
